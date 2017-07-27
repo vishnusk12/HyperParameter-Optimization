@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 11:09:23 2017
-
-@author: Impact
-"""
 
 import numpy as np
 from scipy.stats import uniform as sp_rand
